@@ -1,1 +1,1 @@
-# Xypo
+# static-design
